@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Lucas+Davila;Tenho+28+anos;Em+breve+um+Dev+Full+Stack!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+Wellcome!!!;I'm+David+Miguel!!!;)](https://git.io/typing-svg)
 
 <br>
 
-![Lucas D GitHub stats](https://github-readme-stats.vercel.app/api?username=Durukar&show_icons=true&theme=radical)
+![David Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=DavldMA&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durukar&theme=radical&layout=compact)](https://github.com/Durukar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durukar&theme=radical&layout=compact)](https://github.com/DavldMA/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
