@@ -4,7 +4,7 @@
 
 ![David Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=DavldMA&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durukar&theme=radical&layout=compact)](https://github.com/DavldMA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavldMA&theme=radical&layout=compact)](https://github.com/DavldMA/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
