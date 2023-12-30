@@ -5,15 +5,15 @@
 </h1>
 <br />
 
-**About me**
+# About me
 
-- 💼 Engineer at 
+- 💼 Engineer at ...
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
   
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+# Stats 
 <br>
 <p align=center>
   <div align=center>
