@@ -12,7 +12,6 @@
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
   
 
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
