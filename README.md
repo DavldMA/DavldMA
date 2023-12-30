@@ -3,17 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+David+Miguel!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<br />
-
-# About me
-
+<br>
+## About Me
+<br>
 - 💼 Engineer at ...
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
-  
-
-
-# Stats 
+<br><br><br>
+## Stats 
 <br>
 <p align=center>
   <div align=center>
