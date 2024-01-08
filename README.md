@@ -8,7 +8,7 @@
 ## About Me
 <br>
 
-- 💼 Engineer at ...
+- 💼 Engineer at school
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
 <br><br>
