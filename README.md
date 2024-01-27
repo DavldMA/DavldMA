@@ -8,6 +8,8 @@
 ## About Me
 <br>
 
+- ♨️ Portuguese, English, Spanish and French
+
 - 💼 Engineer at school
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
