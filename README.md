@@ -8,7 +8,7 @@
 ## About Me
 <br>
 
-- 🎓 [Portfolio](https://portfolio-davidma.vercel.app)
+- 🎓 Here is my [Portfolio](https://portfolio-davidma.vercel.app) made with 💞
 
 - ♨️ Portuguese, English, Spanish and French
 
