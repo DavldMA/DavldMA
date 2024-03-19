@@ -8,6 +8,8 @@
 ## About Me
 <br>
 
+- 🎓 [Portfolio](https://portfolio-davidma.vercel.app)
+
 - ♨️ Portuguese, English, Spanish and French
 
 - 💼 Engineer at school
