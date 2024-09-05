@@ -12,7 +12,7 @@
 
 - ♨️ Portuguese, English, Spanish and French
 
-- 💼 Engineer at school
+- 💼 Computer Science Student
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
 <br><br>
