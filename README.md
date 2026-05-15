@@ -10,9 +10,9 @@
 
 - 🎓 Here is my [Portfolio](https://portfolio-davidma.vercel.app) made with 💞
 
-- ♨️ Portuguese, English, Spanish and French
+- ♨️ Portuguese, English, Spanish, German and French
 
-- 💼 Computer Science Student
+- 💼 Software Engineer Graduate
 
 - 💬 Ask me about anything [here](https://github.com/DavldMA/DavldMA/issues)
 <br><br>
@@ -24,15 +24,6 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DavldMA&theme=react&border=61dafb&hide_border=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DavldMA&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavldMA&hide=c%23,powershell,Mathematica,html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br>
 </p>
@@ -42,9 +33,16 @@
 &hide=javascript,html
 
 
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavldMA&hide=c%23,powershell,Mathematica,html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 
-
-
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DavldMA&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
 
 
 
