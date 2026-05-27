@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+David+Miguel!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br>
+Hello, I am David, a Software Engineer with a passion for software architecture.
 <br><br>
 
 ## About Me
